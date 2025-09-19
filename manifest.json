@@ -1,0 +1,20 @@
+﻿{
+  "name": "RADIO URBANA",
+  "short_name": "RADIO URBANA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#28a745",
+  "theme_color": "#28a745",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/rR0t9j8q/RADIO-URBANA.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/rR0t9j8q/RADIO-URBANA.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
